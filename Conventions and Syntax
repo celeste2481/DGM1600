@@ -1,0 +1,13 @@
+Syntax means the sentences that are used for coding. 
+Comments are notes that can be put into code to provide more information or clarification about the code.
+Comments are not recognized as code.
+//Code to move an object
+if (Input.GetKey (KeyCode.UpArrow)) {
+				gameObject.transform.Translate (0, , 1f);
+			}
+//Statement for a code
+if (Number>=2){
+  };
+  if (Input.GetKeyDown (KeyCode.R)) {
+			GetComponent<Renderer> ().material.color = Color.red;
+		}
