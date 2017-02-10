@@ -1,0 +1,51 @@
+//I'm setting a variable called "total" equal to 3.
+int total = 3
+if (total >=3){
+  MessageBox.show("Too bad");
+}
+
+//I'm setting a as a boolean equal to false.
+bool a = true
+if (a != true){
+  Console.WriteLine("That is not true");
+}
+
+//I've created a string that says "Hello"
+string message = "Hello ";
+if (username == "celeste" && password == "password"){
+  Console.WriteLine("Welcome");
+}
+
+//I've created two values.
+float val1 = 2.0f;
+float val2 = 3.0f;
+{
+if (val1 == val2){
+  val+=;
+  }
+ 
+ //An if statement saying that if x is equal to 2 then to display this message on the console.
+  if (x==2){
+    Console.WriteLine("How cool");
+  }
+  
+  if (a==true && b==true){
+    Console.WriteLine("You lose");
+  }
+  
+  if (c<=10){
+    c+=;
+  }
+  
+  if (val!=num){
+    Console.WriteLine("Go Away");
+  }
+  
+  if (g%c!=0){
+    Console.WriteLine("Incorrect");
+  }
+  
+  if (profit<=expenses){
+    Console.WriteLine("You're fired");
+  }
+  
